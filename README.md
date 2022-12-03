@@ -11,7 +11,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Turkcell Akademi - Python Türkçe](https://gelecegiyazanlar.turkcell.com.tr/konu/python)
 - [Youtube - Advanced Python](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&ab_channel=PatrickLoeber)
 
-### Improve your coding practice through challenge
+### Improve your coding skills
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [CodeChef](https://www.codechef.com/)
@@ -31,5 +31,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Udacity - Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Turkcell Akademi - Machine Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/makine-ogrenmesi)
 
+<br>
+<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/datascience.png" width="700" height="350">
 ### Data Science
 - [Udacity - Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
