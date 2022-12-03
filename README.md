@@ -25,4 +25,8 @@ In this repository, you can find links that I find useful in the fields of pytho
 ### Machine Learning with Udacity & Coursera & Udemy & Youtube & Turkcell Akademi
 - [Youtube - Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Udacity - Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [Udacity - Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+- [Udacity - Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [Udacity - Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+- [Udacity - Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Turkcell Akademi - Machine Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/makine-ogrenmesi)
