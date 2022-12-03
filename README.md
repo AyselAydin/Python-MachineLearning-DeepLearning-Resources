@@ -4,7 +4,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 
 <img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/python.png" width="700" height="300">
 
-### Python with Udacity & Coursera & Udemy & Youtube & Turkcell Akademi
+### Python
 - [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [Coursera - Programming for Everybody(Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Coursera - Python Basics](https://www.coursera.org/learn/python-basics)
@@ -22,7 +22,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 <br><br>
 <img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/machinelearning.jpg" width="700" height="300">
 
-### Machine Learning with Udacity & Coursera & Udemy & Youtube & Turkcell Akademi
+### Machine Learning
 - [Youtube - Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Udacity - Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Udacity - Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
@@ -30,3 +30,6 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Udacity - Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [Udacity - Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Turkcell Akademi - Machine Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/makine-ogrenmesi)
+
+### Data Science
+- [Udacity - Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
