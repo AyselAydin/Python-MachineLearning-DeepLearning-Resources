@@ -39,7 +39,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 
 
 <br><br>
-<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/deeplearning.jpg" width="700" height="300">
+<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/deeplearning.png" width="700" height="300">
 
 ### Deep Learning
 - [Udacity - Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
