@@ -10,6 +10,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Coursera - Python Basics](https://www.coursera.org/learn/python-basics)
 - [Turkcell Akademi - Python Türkçe](https://gelecegiyazanlar.turkcell.com.tr/konu/python)
 - [Youtube - Advanced Python](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&ab_channel=PatrickLoeber)
+- [BTK - Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 
 ### Improve your coding skills
 - [Codewars](https://www.codewars.com/)
@@ -25,7 +26,6 @@ In this repository, you can find links that I find useful in the fields of pytho
 ### Machine Learning
 - [Youtube - Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Udacity - Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [Coursera - Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
 - [Coursera - Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke)
 - [Udacity - Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 - [Youtube - Scikit Learn Tips](https://www.youtube.com/watch?v=NGq8wnH5VSo&list=PL5-da3qGB5ID7YYAqireYEew2mWVvgmj6&index=2&ab_channel=DataSchool)
@@ -33,7 +33,6 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Udacity - Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [Udacity - Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Coursera - Machine Learning for All](https://www.coursera.org/learn/uol-machine-learning-for-all)
-- [Coursera - Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Turkcell Akademi - Machine Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/makine-ogrenmesi)
 - [Youtube - Stanford CS229: Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Youtube - Introduction to Machine Learning — Dmitry Kobak](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
@@ -48,6 +47,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 ### Deep Learning
 - [Udacity - Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Turkcell Akademi - Deep Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/derin-ogrenme)
+- [BTK - Keras İle Derin Öğrenmeye Giriş](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599)
 - [Youtube - MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Youtube - Practical Deep Learning for Coders 2022](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
 - [Youtube - Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
@@ -61,3 +61,4 @@ In this repository, you can find links that I find useful in the fields of pytho
 
 ### Data Science
 - [Udacity - Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+- [BTK - Veri Bilimi ve Makine Öğrenmesi Atölyesi](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-ve-makine-oegrenmesi-atoelyesi-bootcamp-2022-19100)
