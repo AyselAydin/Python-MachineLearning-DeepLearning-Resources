@@ -36,6 +36,19 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Youtube - Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 - [Youtube - Machine Learning Lecture WS 2021/22](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)
 
+<br><br>
+<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/machinelearning.jpg" width="700" height="300">
+
+### Deep Learning
+- [Udacity - Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [Youtube - MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Youtube - Practical Deep Learning for Coders 2022](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
+- [Youtube - Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- [Youtube - Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+- [Youtube - NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+- [Youtube - Deep Learning for Computer Vision (DL4CV)@WIS, Spring 2021](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
+- [Youtube - Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+
 <br>
 <img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/datascience.png" width="700" height="350">
 
