@@ -41,6 +41,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 
 ### Deep Learning
 - [Udacity - Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [Turkcell Akademi - Deep Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/derin-ogrenme)
 - [Youtube - MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Youtube - Practical Deep Learning for Coders 2022](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)
 - [Youtube - Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
