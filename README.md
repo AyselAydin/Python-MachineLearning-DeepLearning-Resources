@@ -35,9 +35,11 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Youtube - Introduction to Machine Learning — Dmitry Kobak](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 - [Youtube - Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 - [Youtube - Machine Learning Lecture WS 2021/22](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)
+- [Youtube - Mert Çobanov Makine Öğrenmesi Dersleri](https://www.youtube.com/watch?v=MO171s4l3q0&list=PLk54I7lqQSsbsxz-LWIOt6mrO5n0mpe-J&index=1&ab_channel=MertCobanov)
+
 
 <br><br>
-<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/machinelearning.jpg" width="700" height="300">
+<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/deeplearning.jpg" width="700" height="300">
 
 ### Deep Learning
 - [Udacity - Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
