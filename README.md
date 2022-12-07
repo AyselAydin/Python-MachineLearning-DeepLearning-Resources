@@ -39,6 +39,8 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Youtube - Making Friends with Machine Learning](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 - [Youtube - Machine Learning Lecture WS 2021/22](https://www.youtube.com/playlist?list=PLzrCXlf6ypbxS5OYOY3EN_0u2fDuIT6Gt)
 - [Youtube - Mert Çobanov Makine Öğrenmesi Dersleri](https://www.youtube.com/watch?v=MO171s4l3q0&list=PLk54I7lqQSsbsxz-LWIOt6mrO5n0mpe-J&index=1&ab_channel=MertCobanov)
+- [Youtube - Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+- [Youtube - Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=1&ab_channel=StatQuestwithJoshStarmer)
 
 
 <br><br>
@@ -62,3 +64,13 @@ In this repository, you can find links that I find useful in the fields of pytho
 ### Data Science
 - [Udacity - Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 - [BTK - Veri Bilimi ve Makine Öğrenmesi Atölyesi](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-ve-makine-oegrenmesi-atoelyesi-bootcamp-2022-19100)
+
+
+### Interview
+- [Youtube - Emma Ding](https://www.youtube.com/@DataInterviewPro/playlists)
+- [Data Science Interviews](https://www.youtube.com/watch?v=tnpV1etgcxs&list=PL2zq7klxX5ATSm5sTdY4JrDSzp72V5-hV&index=1&ab_channel=KenJee)
+
+### Podcast
+- [Data Science YouTuber Podcast Series](https://www.youtube.com/watch?v=4qZINLzwYyk&list=PL2zq7klxX5AQfBb4-chtyj8iQ7msAISo9&ab_channel=KenJee)
+- [Miuul Turkish](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
+
