@@ -6,8 +6,9 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [Coursera - Programming for Everybody(Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Coursera - Python Basics](https://www.coursera.org/learn/python-basics)
-- [Turkcell Akademi - Python Türkçe](https://gelecegiyazanlar.turkcell.com.tr/konu/python)
+- [Youtube - Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - [Youtube - Advanced Python](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&ab_channel=PatrickLoeber)
+- [Turkcell Akademi - Python Türkçe](https://gelecegiyazanlar.turkcell.com.tr/konu/python)
 - [BTK - Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 
 
