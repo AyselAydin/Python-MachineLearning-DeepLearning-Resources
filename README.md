@@ -2,9 +2,7 @@
 In this repository, you can find links that I find useful in the fields of python, machine learning and deep learning that you can access for free. I will update regularly, feel free to contribute too.
 <br>
 
-<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/python.png" width="700" height="300">
-
-### Python
+## Python
 - [Udacity - Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 - [Coursera - Programming for Everybody(Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Coursera - Python Basics](https://www.coursera.org/learn/python-basics)
@@ -12,7 +10,8 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Youtube - Advanced Python](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&ab_channel=PatrickLoeber)
 - [BTK - Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 
-### Improve your coding skills
+
+## Improve your coding skills
 - [Codewars](https://www.codewars.com/)
 - [LeetCode](https://leetcode.com/)
 - [CodeChef](https://www.codechef.com/)
@@ -20,10 +19,9 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [HackerRank](https://www.hackerrank.com/products/main/)
 - [NeetCode](https://neetcode.io/practice)
 - [TopCoder](https://www.topcoder.com/)
-<br><br>
-<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/machinelearning.jpg" width="700" height="300">
 
-### Machine Learning
+
+## Machine Learning
 - [Youtube - Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Udacity - Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Coursera - Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke)
@@ -43,10 +41,7 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Youtube - Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=1&ab_channel=StatQuestwithJoshStarmer)
 
 
-<br><br>
-<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/deeplearning.png" width="700" height="300">
-
-### Deep Learning
+## Deep Learning
 - [Udacity - Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Turkcell Akademi - Deep Learning(Turkish)](https://gelecegiyazanlar.turkcell.com.tr/konu/derin-ogrenme)
 - [BTK - Keras İle Derin Öğrenmeye Giriş](https://www.btkakademi.gov.tr/portal/course/keras-ile-derin-oegrenmeye-giris-10599)
@@ -58,22 +53,24 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Youtube - Deep Learning for Computer Vision (DL4CV)@WIS, Spring 2021](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv)
 - [Youtube - Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
-<br>
-<img src="https://github.com/AyselAydin/Python-MachineLearning-DeepLearning-Resources/blob/main/datascience.png" width="700" height="350">
 
-### Data Science
+## Data Science
 - [Udacity - Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 - [BTK - Veri Bilimi ve Makine Öğrenmesi Atölyesi](https://www.btkakademi.gov.tr/portal/course/veri-bilimi-ve-makine-oegrenmesi-atoelyesi-bootcamp-2022-19100)
 
 
-### Interview
+## Interview
 - [Youtube - Emma Ding](https://www.youtube.com/@DataInterviewPro/playlists)
 - [Data Science Interviews](https://www.youtube.com/watch?v=tnpV1etgcxs&list=PL2zq7klxX5ATSm5sTdY4JrDSzp72V5-hV&index=1&ab_channel=KenJee)
 
-### Podcast
+
+## Podcast
 - [Data Science YouTuber Podcast Series](https://www.youtube.com/watch?v=4qZINLzwYyk&list=PL2zq7klxX5AQfBb4-chtyj8iQ7msAISo9&ab_channel=KenJee)
 - [Talk Python to Me](https://talkpython.fm/episodes/all)
 - [Podcast.init](https://www.pythonpodcast.com/)
 - [Python Bytes](https://pythonbytes.fm/episodes/all)
 - [Miuul Turkish](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
+
+## Books
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
