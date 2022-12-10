@@ -72,5 +72,8 @@ In this repository, you can find links that I find useful in the fields of pytho
 
 ### Podcast
 - [Data Science YouTuber Podcast Series](https://www.youtube.com/watch?v=4qZINLzwYyk&list=PL2zq7klxX5AQfBb4-chtyj8iQ7msAISo9&ab_channel=KenJee)
+- [Talk Python to Me](https://talkpython.fm/episodes/all)
+- [Podcast.init](https://www.pythonpodcast.com/)
+- [Python Bytes](https://pythonbytes.fm/episodes/all)
 - [Miuul Turkish](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
 
