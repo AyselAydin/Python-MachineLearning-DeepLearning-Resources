@@ -11,6 +11,12 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Turkcell Akademi - Python Türkçe](https://gelecegiyazanlar.turkcell.com.tr/konu/python)
 - [BTK - Sıfırdan İleri Seviye Python Programlama](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877)
 
+## Python Tutorials - Websites
+- [Python For Beginners](https://www.pythonforbeginners.com/python-tutorial)
+- [Python Tutorials](https://pythonspot.com/)
+- [Python tutorials for beginners](https://thepythonguru.com/)
+- [Real Python Tutorials](https://realpython.com/)
+- [Full Stack Python](https://www.fullstackpython.com/)
 
 ## Improve your coding skills
 - [Codewars](https://www.codewars.com/)
