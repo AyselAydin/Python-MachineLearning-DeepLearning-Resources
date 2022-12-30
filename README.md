@@ -82,4 +82,5 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Think Python](https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist/)
 - [Python for you and me](https://pymbook.readthedocs.io/en/latest/index.html)
+- [Grokking Machine Learning](https://livebook.manning.com/book/grokking-machine-learning/chapter-1/v-14/1)
 
