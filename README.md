@@ -17,6 +17,8 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Python tutorials for beginners](https://thepythonguru.com/)
 - [Real Python Tutorials](https://realpython.com/)
 - [Full Stack Python](https://www.fullstackpython.com/)
+- [GeeksforGeeks - Python](https://www.geeksforgeeks.org/python-programming-language/)
+- [freeCodeCamp - Python](https://www.freecodecamp.org/news/tag/python/)
 
 ## Improve your coding skills
 - [Codewars](https://www.codewars.com/)
