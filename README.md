@@ -80,6 +80,9 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [Podcast.init](https://www.pythonpodcast.com/)
 - [Python Bytes](https://pythonbytes.fm/episodes/all)
 - [Miuul Turkish](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
+- [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+- [Teaching Python](https://www.teachingpython.fm/)
+- [Django Riffs](https://djangoriffs.com/)
 
 ## Books
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
