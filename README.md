@@ -20,6 +20,8 @@ In this repository, you can find links that I find useful in the fields of pytho
 - [GeeksforGeeks - Python](https://www.geeksforgeeks.org/python-programming-language/)
 - [freeCodeCamp - Python](https://www.freecodecamp.org/news/tag/python/)
 - [AlphaCodingSkills](https://www.alphacodingskills.com/python/python-introduction.php)
+- [Google's Python Class](https://developers.google.com/edu/python?hl=tr)
+- [w3schools Python](https://www.w3schools.com/python/)
 
 ## Improve your coding skills
 - [Codewars](https://www.codewars.com/)
